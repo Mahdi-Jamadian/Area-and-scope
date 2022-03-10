@@ -1,0 +1,3 @@
+G:/project/C/Area and scope/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+G:/project/C/Area and scope/cmake-build-debug/CMakeFiles/Area_and_scope.dir
+G:/project/C/Area and scope/cmake-build-debug/CMakeFiles/edit_cache.dir
